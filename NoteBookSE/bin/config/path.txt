@@ -1,0 +1,2 @@
+PATHE:\NotesPATH#
+FILTER**.txt*.java*.solFILTER#
